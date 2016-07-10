@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=mike.jol
 Tags: woocommerce, product, gift wrap
 Requires at least: 3.5
 Tested up to: 3.5
-Stable tag: 1.0.1
+Stable tag: 1.1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -31,6 +31,15 @@ If you'd like to contribute to the plugin you can find it on GitHub: [https://gi
 1. The customisable gift message and checkbox
 
 == Changelog ==
+
+= 1.1.0 =
+* WC 2.2 compatibility.
+* Changed 'Gift Wrap Message' option to include only the label. Markup can be changed via a template file.
+* Updated textdomain to woocommerce-product-gift-wrap.
+* Japanese language.
+* Danish language.
+* Brazilian Portuguese language.
+* Included POT file.
 
 = 1.0.1 =
 * Fix gift wrap price overrides
